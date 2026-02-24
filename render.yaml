@@ -13,7 +13,7 @@ services:
         fromService:
           type: web
           name: support-assistant-frontend
-          property: url
+          property: host
       - key: GEMINI_API_KEY
         sync: false
 
@@ -28,7 +28,7 @@ services:
         fromService:
           type: web
           name: support-assistant-backend
-          property: url
+          property: host
     routes:
       - type: rewrite
         source: /*
