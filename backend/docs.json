@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset password from Settings > Security and clicking on 'Reset Password'. A link will be sent to the registered email."
+  },
+  {
+    "title": "Refund Policy",
+    "content": "Refunds are allowed within 7 days of purchase. Please contact support@example.com with your order ID to initiate a refund."
+  },
+  {
+    "title": "Supported Platforms",
+    "content": "Our app is available on Web, iOS, and Android platforms."
+  },
+  {
+    "title": "Subscription Plans",
+    "content": "We offer Basic ($9/mo), Pro ($19/mo), and Enterprise (Contact Sales) plans. You can upgrade or downgrade at any time."
+  },
+  {
+    "title": "Cancel Subscription",
+    "content": "To cancel your subscription, go to Billing > Manage Subscription, and click 'Cancel Subscription'. Your access will remain until the end of the billing cycle."
+  },
+  {
+    "title": "Contact Support",
+    "content": "You can reach our human support team at help@example.com or call 1-800-123-4567 during business hours (9 AM - 5 PM EST)."
+  },
+  {
+    "title": "Language Support",
+    "content": "Our application currently supports English, Spanish, French, and German. You can change your language preferences in the Profile settings."
+  },
+  {
+    "title": "Data Privacy and GDPR",
+    "content": "We take your privacy seriously. You can request a copy of your data or account deletion by navigating to Settings > Privacy > Data Management."
+  },
+  {
+    "title": "Integration with Third-Party Tools",
+    "content": "We offer seamless integration with Slack, Microsoft Teams, and Google Workspace. Visit the Integrations tab in your dashboard for setup guides."
+  },
+  {
+    "title": "Troubleshooting Login Issues",
+    "content": "If you are having trouble logging in, ensure you are using the correct email address. Clear your browser cache or try logging in using an incognito window."
+  }
+]
